@@ -19,7 +19,7 @@ Fitness website to be linked with a fitness app. Started as a school project.
 * Contains HOME, ABOUT, SERVICES, CLASSES, SCHEDULE ,PRICE and many other sections.
 
 
-[`Click the Demo Button  and View Live Project`](https://github.com/yousafkhan143/Fast-Fitness-Gym/)
+[`Click the Demo Button  and View Live Project`](https://yousafkhan143.github.io/Fast-Fitness-Gym/)
 
 
 ## `Project Live Url`:
